@@ -22,7 +22,7 @@ y luego
 
 `brew install shivammathur/php/php@7.4`
 
-## Colocar el path en el archivo .zshrc
+## Colocar el path en el archivo .zshrc (Recuerda tener instalado zsh y ohmyzsh en tu terminal)
 
 Agregar el path en el archivo que generalmente se encuentra en el directorio de HOME de tu Mac, eso lo haras ejecutando estos comandos desde la terminal:
 
