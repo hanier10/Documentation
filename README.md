@@ -44,6 +44,12 @@ También agregas los siguientes:
 
 `export CPPFLAGS="-I/usr/local/opt/php@7.4/include”`
 
+## Reiniciar la terminal
+
+Si estas con .zshrc hacer lo siguiente:
+
+`source ~/.zshrc`
+
 Reiniciamos el servicio
 
 `brew services restart shivammathur/php/php@7.4`
