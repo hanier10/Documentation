@@ -1,7 +1,7 @@
 # Entorno de Desarrollo en MacOS
 
 * [ Instalando PHP ](https://github.com/hanier10/Documentation/blob/main/instalando_php_version_7.md)
-   * [Instalando Homebrew] (https://github.com/hanier10/Documentation/blob/main/instalando_php_version_7.md) 
+   * [Instalando Homebrew](https://github.com/hanier10/Documentation/blob/main/instalando_php_version_7.md) 
 
 
 * [Instalando driver NVIDIA](https://github.com/itihell/documentanciones/blob/main/driver_nvidia.md)
