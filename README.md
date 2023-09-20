@@ -12,6 +12,7 @@
    * [Seleccionar la versión de PHP instalada](https://github.com/hanier10/Documentation/blob/main/instalando_php_version_7.md#seleccionar-la-versi%C3%B3n-de-php-instalada)
  
 * [ Instalando Composer y Valet ](https://github.com/hanier10/Documentation/blob/main/composer_and_valet.md#instalando-composer-y-valet)
+  
    * [Instalando dnsmasq](https://github.com/hanier10/Documentation/blob/main/composer_and_valet.md#instalando-dnsmasq)
    * [Instalando nginx](https://github.com/hanier10/Documentation/blob/main/composer_and_valet.md#instalando-nginx)
    * [Instalando Valet](https://github.com/hanier10/Documentation/blob/main/composer_and_valet.md#instalando-valet)
