@@ -1,4 +1,4 @@
-# Entorno de Desarrollo en MacOS
+# Entorno de Desarrollo en MacOS :shipit:
 
 > [!NOTE]
 > Esta guía ha sido instalada en MacOS Monterey, sin embargo creo que puede funcionar en otras versiones de MacOS.
