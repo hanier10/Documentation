@@ -36,7 +36,7 @@ Reiniciar dnsmasq
 
 `valet start`
 
-Ahora crea un directorio en **HOME** llamado ***Sites**,* en este directorio guardarás los repositorios de PHP, cuando hayas creado la carpeta y agregado los repositorios que necesites, dentro de ***Sites*** ejecuta el siguiente comando*:*
+Ahora crea un directorio en **HOME** llamado ***Sites**,* en este directorio guardarás los repositorios de PHP, cuando hayas creado la carpeta y agregado los repositorios que necesites, dentro de ***Sites*** ejecuta el siguiente comando:
 
 `valet park`
 
