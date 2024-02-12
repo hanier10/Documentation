@@ -40,7 +40,7 @@ Ahora crea un directorio en **HOME** llamado ***Sites**,* en este directorio gua
 
 `valet park`
 
-Ahora instala redis
+## Ahora instala redis
 
 `brew install redis`
 
