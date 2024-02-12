@@ -54,6 +54,12 @@ Puedes verificar el status de tu valet con:
 
 `valet status`
 
+## Instalando Laravel-echo-server
+
+Ejecuta dentro del repo `npm install -g laravel-echo-server`
+
+luego ejecuta `laravel-echo-server start`
+
 Y listo, ya puedes ir al navegador y ejecutar `tuproyecto.test` para verificar que está funcionando
 
 # Ojo si te da problemas el valet, un error tipo: ***Laravel Valet 502 Bad Gateway*** haz esto.
