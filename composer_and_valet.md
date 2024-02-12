@@ -87,7 +87,7 @@ Luego `valet install`
 
 ## Consideraciones a tener en cuenta
 
-1. Checa tu versión de PHP en la consola, que sea la correcta: `php -v`
+1. Checa tu versión de PHP en la consola, que sea la correcta (PHP 7.4.33): `php -v`
 2. Detén redis y vuelvelo a correr
 3. Ejecuta dentro del repo: `laravel-echo-server start`
 4. Ejecuta `npm run hot`
