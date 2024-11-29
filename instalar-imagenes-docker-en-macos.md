@@ -19,7 +19,15 @@ https://www.docker.com/products/docker-desktop/
 
 Una vez instalado Docker haz lo siguiente en tu terminal lanzando estos comandos:
 
-![Captura de pantalla 2024-11-29 a la(s) 10.32.01 a. m..png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b1890256-bccc-4f30-a93c-9acf2e78b882/13beb8a9-b9b2-4653-8835-1cf8fb321856/Captura_de_pantalla_2024-11-29_a_la(s)_10.32.01_a._m..png)
+```jsx
+docker network create --driver bridge sitici
+
+docker volume create sgupg
+
+docker volume create redisDB
+
+docker volume create sgudb
+```
 
 ### Instalando Postgresql
 
